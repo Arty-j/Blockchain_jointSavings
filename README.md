@@ -16,15 +16,15 @@ www.Remix.ethereum.org
 
 ### Main Page:
 Main Page layout of IDE Remix, at Deployment Stage
-<p style="text-align:center;"><img src="./Execution_Results/main_page.png" width="500" height="200"/></p>
+![Main_page_deploy](./Execution_Results/main_page.png)
 
 ### Setting the Account Addresses
-<p style="text-align:center;"><img src="./Execution_Results/set_addresses.png" width="500" height="200"/></p>
+![Setting_acct_address](./Execution_Results/set_addresses.png)
 
-<p style="text-align:center;"><img src="./Execution_Results/close_up_add.png" width="500" height="200"/></p>
+![closeup_address](./Execution_Results/close_up_add.png)
 
 **verification**
-<p style="text-align:center;"><img src="./Execution_Results/address_verify.png" width="500" height="200"/></p>
+![address_verifiction](./Execution_Results/address_verify.png)
 
 ---
 
@@ -32,23 +32,28 @@ Main Page layout of IDE Remix, at Deployment Stage
 Images showing deposit amounts into the contract by outside source
 
 **1 ether deposit**
-<p style="text-align:center;"><img src="./Execution_Results/1eth_asWei_deposit.png" width="400" height="100"/></p>
 
-<p style="text-align:center;"><img src="./Execution_Results/deposit_1Eth.png" width="800" height="500"/></p>
+![1_ether_as 1wei](./Execution_Results/1eth_asWei_deposit.png)
+
+
+![1eth_verification](./Execution_Results/deposit_1Eth.png)
 
 **10 ether deposit**
-<p style="text-align:center;"><img src="./Execution_Results/deposit_10Eth.png" width="800" height="500"/></p>
+
+![10eth_deposit](./Execution_Results/deposit_10Eth.png)
 
 **5 ether deposit**
-<p style="text-align:center;"><img src="./Execution_Results/5Eth_deposit_setup.png" width="400" height="100"/></p>
 
-<p style="text-align:center;"><img src="./Execution_Results/5eth_deposit.png" width="800" height="500"/></p>
+![5eth_deposit_setup](./Execution_Results/5Eth_deposit_setup.png)
+
+![5eth_deposit](./Execution_Results/5eth_deposit.png)
 
 ---
 
 ### Withdrawl Transactions
 **5 ether withdrawl from contract to Account One**
-<p style="text-align:center;"><img src="./Execution_Results/withdraw_5Eth.png" width="800" height="500"/></p>
+
+![5eth_withdrawl](./Execution_Results/withdraw_5Eth.png)
 
 **10 ether withdrawl from contract to Account Two**
-<p style="text-align:center;"><img src="./Execution_Results/withdraw_10Eth.png" width="800" height="500"/></p>
+![10eth_withdrawl](./Execution_Results/withdraw_10Eth.png)
